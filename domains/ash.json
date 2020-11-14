@@ -1,0 +1,11 @@
+{
+  "description": "Ash's portfolio site",
+  "repo": "https://github.com/AshlandWest",
+  "owner": {
+    "username": "AshlandWest",
+    "email": "nota@real.email"
+  },
+  "record": {
+    "CNAME": "ashlandwest.com"
+  }
+}
